@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Ground
+  - PlayerAttack
+  - BossAttack
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Monster
+  - back
+  - front
+  - PlayerAttack
+  - Bullet
+  - Door
+  - Pos
+  - Background
+  - Item
+  - TengWan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3669097333
+    locked: 0
+  - name: Monster
+    uniqueID: 2285660419
+    locked: 0
+  - name: Player
+    uniqueID: 4075253293
+    locked: 0
+  - name: Tengwan
+    uniqueID: 2993513729
+    locked: 0
+  - name: Front
+    uniqueID: 3534018213
+    locked: 0
+  - name: Bullet
+    uniqueID: 2217998201
+    locked: 0
+  - name: PlayerAttack
+    uniqueID: 1895492363
+    locked: 0
